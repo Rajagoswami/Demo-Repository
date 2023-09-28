@@ -1,0 +1,9 @@
+
+#  it ignores  inner dir
+# dir/  
+/dir/
+#  it ignores  outer dir
+static/dir/
+# it ignore
+
+sdf
